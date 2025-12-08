@@ -1,4 +1,4 @@
-# SQL CRUD Portfolio
+# SQL CRUD
 
 ## Repository Structure
 
